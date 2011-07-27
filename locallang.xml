@@ -8,7 +8,7 @@
     </meta>
     <data type="array">
         <languageKey index="default" type="array">
-			<label index="emconf.showLabelKeys">Show label key:Enable this option in order to see the label keys. It doesn't make your backend nice and smooth, but makes it easier for translator to do there job</label>
+			<label index="emconf.showLabelKeys">Show label keys:Enable this option in order to see the label keys. It doesn't make your backend nice and smooth, but makes it easier for translator to do there job</label>
             <label index="emconf.enableXCLASS">Enable XCLASS solution:In case the labels are not shown, try enabling this XCLASS option</label>
         </languageKey>
         <languageKey index="dk" type="array">
