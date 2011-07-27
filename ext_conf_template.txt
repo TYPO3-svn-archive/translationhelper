@@ -1,0 +1,6 @@
+# cat=basic; type=boolean; label=LLL:EXT:translationhelper/locallang.xml:emconf.showLabelKeys
+showLabelKeys = 0
+
+
+# cat=basic; type=boolean; label=LLL:EXT:translationhelper/locallang.xml:emconf.enableXCLASS
+enableXCLASS = 0
